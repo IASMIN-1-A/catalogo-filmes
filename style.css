@@ -1,8 +1,43 @@
 body {
-    background-color: rgba(24, 217, 243, 0.61);
+    color: rgba(24, 217, 243, 0.61);
+    background-color:  #111010;
+    margin: 0px;
+}
+
+head {
+    background: rgba(229, 245, 247, 0.61);
+    padding-bottom: 20px;
+    font-size: 32px;
     color: #111010;
 }
-head{
+
+.chamada {
+    background: #111010;
+    padding-bottom: 80px;
+    padding-top: 80px:0%
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto }
+    margin-right: 5%;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     border-bottom: solid 2px rgba(217, 246, 250, 0.61);
     pedding: 20px;
     font-size: 32px;
