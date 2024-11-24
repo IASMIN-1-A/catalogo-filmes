@@ -2,8 +2,6 @@ body {
     color: white;
     background: black;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
 }
 
 header {
@@ -33,28 +31,17 @@ p {
     font-size: 20px;
 }
 
-.categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
+footer {
+    background-color: blueviolet;
+    color: antiquewhite;
+    bottom:0;
+    position:fixed;
+    width:100%;
+
 }
 
-.categoria {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 50px;
-}
-
-.categoria-videos img {
-    opacity: 0.5;
-    height: 200px;
-}
-
-.categoria-videos img:hover {
-    opacity: 1.0;
-    border: 3px solid green;
-}
-
-.categoria h2 {
-    color: rgb(42, 122, 228);
+footer p{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 3px;
 }
