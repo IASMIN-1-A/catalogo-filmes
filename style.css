@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgb(190, 122, 187);
+    background: rgb(155, 96, 182);
     margin: 0px;
 }
 
@@ -32,7 +32,7 @@ p {
 }
 
 footer {
-    background-color: blueviolet;
+    background-color: rgb(180, 121, 235);
     color: antiquewhite;
     bottom:0;
     position:fixed;
